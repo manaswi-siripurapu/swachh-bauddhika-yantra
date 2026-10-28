@@ -1,4 +1,4 @@
-# Swachh Bauddhika Yantra — Trash Detection Dataset
+# Swachh Bauddhika Yantra - Trash Detection Dataset
 
 This repository contains image data associated with **Swachh Bauddhika Yantra (SBY)**, an autonomous indoor cleaning robot designed to navigate indoor environments and identify trash and obstacles. The dataset supports the trash-detection component of the project.
 
